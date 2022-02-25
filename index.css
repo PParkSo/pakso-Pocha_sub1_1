@@ -45,6 +45,16 @@ list-style:none;
     float:left;
     padding-top:15.5px;
   }
+  #logo a{
+    display: block;
+    width:100%;
+    height: 100%;;
+  }
+
+
+
+
+
 
 #logo>a{
   display: block;
